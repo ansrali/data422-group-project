@@ -81,7 +81,7 @@ Ansar asked the group members if they are comfortable using git and github. If s
 - health care
 
 ## 18-09-2022
-Ansar initiated communication through email to collaborate on the project. He proposed two topics for the project:
+**Ansar** initiated communication through email to collaborate on the project. He proposed two topics for the project:
 •	Predicting forex exchange rates based on scrapped data from apparently not related source.
 •	prediction of fuel prices based on what's happening around the world in terms of stability or unstability of different international factors.
 
