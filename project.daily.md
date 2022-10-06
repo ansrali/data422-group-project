@@ -5,6 +5,9 @@
 ## 06-10-2022
 No one attended lab except **Ansar**. Ansar waited for group members for around half an hour and emailed them. **Jinze** came to the lab, he said he would work on downloading some data for the project in evening. He was concentrating on Assignment 2 at that moment. **Ansar and Jinze** remained in lab zoom session till end.
 
+**Jinze** finish assessment-2 julia part's automatically crawl all data part, then data wrangling will be added later.
+**Jinze** try `polite` library to download file on RBNZ, but it's fail, I will try webdriver method to achive this goal tomorrow.
+
 ## 05-10-2022##
 Team held its sixth meeting online through zoom.
 After deliberate consideration and discussion by the team members, we decided that movies dataset/database might be too simple for the project, hence, we had fallen back to a mix of **Jinze's** topics and **Jeffrey's** topics. Now we decided to look for the datasets for:
