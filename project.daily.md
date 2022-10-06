@@ -2,6 +2,9 @@
 # Project diary - Group Asclepius
 (Ansar Ali, Jeffrey Chi & Jinze Zhou)
 
+## 06-10-2022
+No one attended lab except **Ansar**. Ansar waited for group members for around half an hour and emailed them. **Jinze** came to lab, he said he would work on downloading some data for the project in evening. He was concentrating on Assignment 2 at that moment. **Ansar and Jinze** remained in lab zoom session till end.
+
 ## 02-10-2022
 **Jinze** post `Treasury Par Yield Curve Rates` data source url from U.S. Department of the Treasury and API from NASDAQ on Github Disscussion.
 
