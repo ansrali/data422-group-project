@@ -2,6 +2,11 @@
 # Project diary - Group Asclepius
 (Ansar Ali, Jeffrey Chi & Jinze Zhou)
 
+## 08/10/22
+No one attended scheduled zoom meeting except **Ansar**. Meeting was scheduled for 7pm New Zealand Times. **Jinze** later informed Ansar that he and **Jeffrey** forgot about it. Next group meeting is set for 10-10-2022 Sunday 5pm New Zealand Times.
+
+A communication through emails been held between team members and **Jeffrey** suggested to get to the coding part before we see each other on the Sunday.
+
 ## 06-10-2022
 No one attended lab except **Ansar**. Ansar waited for group members for around half an hour and emailed them. **Jinze** came to the lab, he said he would work on downloading some data for the project in evening. He was concentrating on Assignment 2 at that moment. **Ansar and Jinze** remained in lab zoom session till end.
 
