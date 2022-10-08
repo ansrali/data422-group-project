@@ -7,6 +7,8 @@ No one attended scheduled zoom meeting except **Ansar**. Meeting was scheduled f
 
 A communication through emails been held between team members and **Jeffrey** suggested to get to the coding part before we see each other on the Sunday.
 
+**Jinze** working on webdriver/selenium solution to scrape file from RBNZ, but still block by RBNZ's crawler/scraper detection mechanism.
+
 ## 06-10-2022
 No one attended lab except **Ansar**. Ansar waited for group members for around half an hour and emailed them. **Jinze** came to the lab, he said he would work on downloading some data for the project in evening. He was concentrating on Assignment 2 at that moment. **Ansar and Jinze** remained in lab zoom session till end.
 
