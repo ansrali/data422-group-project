@@ -6,10 +6,10 @@
 We held zoom meeting - every member of the group was present
 
 We discussed: 
- - correlations between our collected datasets (Jeffrey is going to work on that and make it concrete)
- - progress of data collection/scraping (conincidently, Jerry and I selected Stats NZ's http://infoshare.stats.govt.nz site. He used automation to download datasets. I am using their interface to download the datasets related to tourism and transportation)
- - We decided to have next zoom meeting on 11-10-2022 (Tuesday)
-   (we'd discuss how the data can be modeled to achive our goals and our previous progress)
+ - correlations between our collected datasets (**Jeffrey** is going to work on that and make it concrete)
+ - progress of data collection/scraping (conincidently, **Jinze** and **Ansar** selected Stats NZ's http://infoshare.stats.govt.nz site. He used automation to download datasets. I am using their interface to download the datasets related to tourism and transportation)
+ - We decided to have next zoom meeting on **11-10-2022 (Tuesday)**
+   (we will discuss how the data can be modeled to achive our goals and the progress till then)
 
 
 ## 08-10-2022
