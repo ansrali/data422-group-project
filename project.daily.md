@@ -2,7 +2,17 @@
 # Project diary - Group Asclepius
 (Ansar Ali, Jeffrey Chi & Jinze Zhou)
 
-## 08/10/22
+## 09-10-2022
+We held zoom meeting - every member of the group was present
+
+We discussed: 
+ - correlations between our collected datasets (Jeffrey is going to work on that and make it concrete)
+ - progress of data collection/scraping (conincidently, Jerry and I selected Stats NZ's http://infoshare.stats.govt.nz site. He used automation to download datasets. I am using their interface to download the datasets related to tourism and transportation)
+ - We decided to have next zoom meeting on 11-10-2022 (Tuesday)
+   (we'd discuss how the data can be modeled to achive our goals and our previous progress)
+
+
+## 08-10-2022
 No one attended scheduled zoom meeting except **Ansar**. Meeting was scheduled for 7pm New Zealand Times. **Jinze** later informed Ansar that he and **Jeffrey** forgot about it. Next group meeting is set for 10-10-2022 Sunday 5pm New Zealand Times.
 
 A communication through emails been held between team members and **Jeffrey** suggested to get to the coding part before we see each other on the Sunday.
