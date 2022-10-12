@@ -2,6 +2,46 @@
 # Project diary - Group Asclepius
 (Ansar Ali, Jeffrey Chi & Jinze Zhou)
 
+## 09-10-2022
+We held zoom meeting - every member of the group was present
+
+We discussed: 
+ - correlations between our collected datasets (**Jeffrey** is going to work on that and make it concrete)
+ - progress of data collection/scraping (conincidently, **Jinze** and **Ansar** selected Stats NZ's http://infoshare.stats.govt.nz site. He used automation to download datasets. I am using their interface to download the datasets related to tourism and transportation)
+ - We decided to have next zoom meeting on **11-10-2022 (Tuesday)**
+   (we will discuss how the data can be modeled to achive our goals and the progress till then)
+
+
+## 08-10-2022
+No one attended scheduled zoom meeting except **Ansar**. Meeting was scheduled for 7pm New Zealand Times. **Jinze** later informed Ansar that he and **Jeffrey** forgot about it. Next group meeting is set for 10-10-2022 Sunday 5pm New Zealand Times.
+
+A communication through emails been held between team members and **Jeffrey** suggested to get to the coding part before we see each other on the Sunday.
+
+**Jinze** working on webdriver/selenium solution to scrape file from RBNZ, but still block by RBNZ's crawler/scraper detection mechanism.
+
+## 06-10-2022
+No one attended lab except **Ansar**. Ansar waited for group members for around half an hour and emailed them. **Jinze** came to the lab, he said he would work on downloading some data for the project in evening. He was concentrating on Assignment 2 at that moment. **Ansar and Jinze** remained in lab zoom session till end.
+
+**Jinze** finish assessment-2 julia part's automatically crawl all data part, then data wrangling will be added later.
+**Jinze** try `polite` library to download file on RBNZ, but it's fail, I will try webdriver method to achive this goal tomorrow.
+
+## 05-10-2022##
+Team held its sixth meeting online through zoom.
+After deliberate consideration and discussion by the team members, we decided that movies dataset/database might be too simple for the project, hence, we had fallen back to a mix of **Jinze's** topics and **Jeffrey's** topics. Now we decided to look for the datasets for:
+ - CPI 
+ - HPI (Housing price index)
+ - Tourism
+ - Transportation
+
+**Ansar** was assigned task to get data for Tourism & Transportation. **Jeffrey** was given task to write up some scenarios where datasets related to these diverse topics can be of interest. He would also try to find out the relationships among this kind of topics. **Jinze** was given the task of finding data sources for CPI & HPI.
+
+## 04-10-2022 ##
+**Ansar** asked the group members to go through the **Group Project instructions document** once again. He pointed out that we are in week 10 and secondly, we have specific goals to follow as per that instruction document.
+
+## 04-10-2022 ##
+Team held its fifth meeting online through zoom.
+**Ansar** mentioned that the databases we are looking at right now are too tidy and we would not have any chance to wrangle it and suggested to go for a more fun topic like Ranking, Ratings, Likes, Genre etc of **Movies**. We collectively, agreed to scrape at least two databases. One from fans perspective and second from critics’ perspective. For that we initially selected IMDB.com and Rotten tomatoes websites.
+
 ## 02-10-2022
 **Jinze** post `Treasury Par Yield Curve Rates` data source url from U.S. Department of the Treasury and API from NASDAQ on Github Disscussion.
 
@@ -61,7 +101,7 @@ Ansar asked the group members if they are comfortable using git and github. If s
 - health care
 
 ## 18-09-2022
-Ansar initiated communication through email to collaborate on the project. He proposed two topics for the project:
+**Ansar** initiated communication through email to collaborate on the project. He proposed two topics for the project:
 •	Predicting forex exchange rates based on scrapped data from apparently not related source.
 •	prediction of fuel prices based on what's happening around the world in terms of stability or unstability of different international factors.
 
