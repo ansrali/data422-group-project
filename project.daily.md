@@ -2,6 +2,18 @@
 # Project diary - Group Asclepius
 (Ansar Ali, Jeffrey Chi & Jinze Zhou)
 
+## 13-10-2022
+We had lab today. **Ansar** and **Jinze** where present. **Jeffrey** joined later during the unstructured time(group time). We had a feed back session in the start of the lab. There were two groups (including us) present in the lab today. **Ansar** presented the group work for the other group.
+
+In unstructured group time, we had our group meeting and discussed the progress of the project. Evaluated the code and its requirement. **Jeffrey** had some issues running the code on his end. **Ansar** pointed out that as we are using RSelenium, he would need to install Java Runtime to make it work.
+
+**Ansar** and **Jinze** will continue on coding to extract/acquire data. Further more **Jinze** would look into visualization of Data and Data Model using Julia. **Jeffrey** would look into formating and writing the Project report.
+
+
+## 11-10-2022
+We held zoom meeting - every memeber of the group was present
+We discussed the general progress of the project. Looked into what have we achieved so far regarding acquiring datasets.
+
 ## 09-10-2022
 We held zoom meeting - every member of the group was present
 
