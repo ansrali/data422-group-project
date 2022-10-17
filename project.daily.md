@@ -2,6 +2,26 @@
 # Project diary - Group Asclepius
 (Ansar Ali, Jeffrey Chi & Jinze Zhou)
 
+## 17-10-2022
+Today **Ansar** formatted project report.
+**Jeffrey** further changed it to improve.
+
+**We held zoom meeting - every memeber of the group was present.**
+we discussed the format and contents of the project report.
+
+**Jeffrey** explained how the economical indicators (from our datasets) are related to each other and linked with the problem we are solving in the project.
+
+**Jinze** picked up another task which we probably didn't discussed so far that's about labour force status (employment/unemployment) data.
+**Jeffrey** took over the task to download cpi dataset from **Jinze** he downloaded it but have not converted it into csv.
+
+One example from **Jeffrey** during meeting:
+correlations between cpi (x-axis) and unemployment (y-axis). He explained how we can plot all indicators (CPI, HPI, Tourism, transportation data) on y-axis and a common column (like year) on x-axis. The visualization of this kind would help us describe phenomenon like stagflation, recession, etc.
+
+**Jeffrey** would handover the cpi data to **Jinze**. And would concentrate on report and presentation stuff. **Ansar** would help him where needed.
+**Jinze** would download HPI data and convert **Jinze**'s data into csv format.
+**Ansar** helped Jeffrey setting up Git and creating local repository and gave a tiny refresher on howto pull and push repsitory.
+
+
 ## 13-10-2022
 We had lab today. **Ansar** and **Jinze** where present. **Jeffrey** joined later during the unstructured time(group time). We had a feed back session in the start of the lab. There were two groups (including us) present in the lab today. **Ansar** presented the group work for the other group.
 
