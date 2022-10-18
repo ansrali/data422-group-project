@@ -68,7 +68,6 @@ A communication through emails been held between team members and **Jeffrey** su
 ## 06-10-2022
 No one attended lab except **Ansar**. Ansar waited for group members for around half an hour and emailed them. **Jinze** came to the lab, he said he would work on downloading some data for the project in evening. He was concentrating on Assignment 2 at that moment. **Ansar and Jinze** remained in lab zoom session till end.
 
-**Jinze** finish assessment-2 julia part's automatically crawl all data part, then data wrangling will be added later.
 **Jinze** try `polite` library to download file on RBNZ, but it's fail, I will try webdriver method to achive this goal tomorrow.
 
 ## 05-10-2022##
