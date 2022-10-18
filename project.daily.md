@@ -2,6 +2,12 @@
 # Project diary - Group Asclepius
 (Ansar Ali, Jeffrey Chi & Jinze Zhou)
 
+## 19-10-2022
+We held zoom meeting - every memeber of the group was present. We discussed the upcoming presentation. Divided the work.
+1. **Jeffrey** presening intro , data model purpose, who can use it. 
+2. **Ansar** presenting datasets, sources of data, scraping, automating the downloads, wrangling and tidying it up.
+3. **Jinze** presenting and explaining the visuals, analysis and conclusions.
+
 ## 17-10-2022
 Today **Ansar** formatted project report.
 **Jeffrey** further changed it to improve.
