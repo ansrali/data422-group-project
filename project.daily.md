@@ -3,7 +3,7 @@
 (Ansar Ali, Jeffrey Chi & Jinze Zhou)
 
 ## 18-10-2022
-**Jinze** finish data collection, currently they are:
+**Jinze** have finished data collection, currently they are:
 - CPI
 - Official cash rate
 - Unemployment rate
