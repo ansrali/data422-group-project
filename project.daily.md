@@ -2,6 +2,14 @@
 # Project diary - Group Asclepius
 (Ansar Ali, Jeffrey Chi & Jinze Zhou)
 
+## 18-10-2022
+**Jinze** finish data collection, currently they are:
+- CPI
+- Official cash rate
+- Unemployment rate
+- HPI
+- exchange rate(NZDUSD/NZDRMB)
+
 ## 17-10-2022
 Today **Ansar** formatted project report.
 **Jeffrey** further changed it to improve.
