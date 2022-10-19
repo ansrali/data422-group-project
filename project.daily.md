@@ -72,7 +72,7 @@ No one attended lab except **Ansar**. Ansar waited for group members for around 
 
 ## 05-10-2022##
 Team held its sixth meeting online through zoom.
-After deliberate consideration and discussion by the team members, we decided that movies dataset/database might be too simple for the project, hence, we had fallen back to a mix of **Jinze's** topics and **Jeffrey's** topics. Now we decided to look for the datasets for:
+After deliberate consideration and discussion by the team members, team decided that movies dataset/database might be too simple for the project, hence, we had fallen back to a mix of **Jinze's** topics and **Jeffrey's** topics. Now we decided to look for the datasets for:
  - CPI 
  - HPI (Housing price index)
  - Tourism
@@ -85,7 +85,7 @@ After deliberate consideration and discussion by the team members, we decided th
 
 ## 04-10-2022 ##
 Team held its fifth meeting online through zoom.
-**Ansar** mentioned that the databases we are looking at right now are too tidy and we would not have any chance to wrangle it and suggested to go for a more fun topic like Ranking, Ratings, Likes, Genre etc of **Movies**. We collectively, agreed to scrape at least two databases. One from fans perspective and second from critics’ perspective. For that we initially selected IMDB.com and Rotten tomatoes websites.
+**Ansar** mentioned that the databases we are looking at right now are too tidy and we would not have any chance to wrangle it and suggested to go for a more fun topic like Ranking, Ratings, Likes, Genre etc of **Movies**. We could combine that dataset with datasets of happy index of New Zealanders to find interesting facts. We collectively, agreed to scrape at least two databases. One from fans perspective and second from critics’ perspective. For that we initially selected IMDB.com and Rotten tomatoes websites.
 
 ## 02-10-2022
 **Jinze** post `Treasury Par Yield Curve Rates` data source url from U.S. Department of the Treasury and API from NASDAQ on Github Disscussion.
