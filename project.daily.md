@@ -8,6 +8,8 @@ We held zoom meeting - every memeber of the group was present.
 **Ansar** is going to wrangle and tidy up tourism and transport data and lookup for more tourism data in monthly format.
 **Jinze** is wrangling and tiding up cpi, hpi and other datasets. And would look into producing visualization.
 
+**Ansar** Wrote code to automate browaing of stats nz's infoshare server to download/scrape International visitors arrival database. He Scraped tourism data from 1921 to 2022q2 and Wrangled and tidied the dataset and saved into the csv file.
+
 ## 18-10-2022
 We held zoom meeting - every memeber of the group was present. We discussed the upcoming presentation. Divided the work.
 1. **Jeffrey** presening intro , data model purpose, who can use it. 
