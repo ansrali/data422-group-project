@@ -1,4 +1,4 @@
-date.quarter,ocr_quarter,CPI,HPI,ump_rate,usd_rete_quarter,cny_rete_quarter
+date.quarter,ocr_quarter,CPI,HPI,ump_rate,usd_rate_quarter,cny_rate_quarter
 1999-03,4.5,-0.09,699,7.6,0.5383333333333333,4.457178333333333
 1999-06,4.5,-0.36,703,7.4,0.5426666666666667,4.496075333333334
 1999-09,4.5,-0.51,704,7.0,0.5253333333333333,4.3492006666666665
