@@ -2,6 +2,10 @@
 # Project diary - Group Asclepius
 (Ansar Ali, Jeffrey Chi & Jinze Zhou)
 
+## 22-10-2022
+**Ansar** wrote julia code to download yearly traffic valume counts in pdf and xlsx files from nzta.
+Tried two julia libraries PDFIO.jl and Taro.jl to parse/scrape pdf files without any success. Asked team members to help in this regards otherwise we have to drop traffic valume counts dataset. 
+
 ## 21-10-2022
 Our group presented the project work.
 **Ansar, Jeffrey and Jinze** had a debriefing meeting after the presentation lab.
