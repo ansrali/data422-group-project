@@ -1,6 +1,17 @@
 
 # Project diary - Group Asclepius
-(Ansar Ali, Jeffrey Chi & Jinze Zhou)
+__(Ansar Ali, Jeffrey Chi & Jinze Zhou)__
+
+## 24-10-2022
+We held zoom meeting - every member  of the group was present.
+We discussed:
+ - Project report (contents and format):
+**Jerry** suggested to format it according to the one showed by Dr. Giulio in the lecture (https://openhumanitiesdata.metajnl.com/article/10.5334/johd.39/). **Ansar** sent an email to Lecturers to confirm if this is okay. Secondly, we'll submit final report in markdown and pdf format.
+
+ - Developing and deploying Data API on cloud (considering digitalocean, aws and sturncloud)
+We decided:
+ - **Jeffrey** will continue writing report in docx format but once we finalize it, **Jerry'll** convert it into markdown.
+ - **Ansar** will write the code to host data api. We decided that we'll publish final merged, cleaned and ready to visualize dataframe, only.
 
 ## 22-10-2022
 **Ansar** wrote julia code to download yearly traffic valume counts in pdf and xlsx files from nzta.
@@ -12,7 +23,7 @@ Our group presented the project work.
 **Ansar** spent around three hours to find __New Zealand traffic volume__ data without any success. The only closest data was from 1987 to 2020, and it is in pdf format. Also it is in yearly format upto 2003 and after that it is in four year format (e.g. 2000-2003 then 2001-2004 and then 2002-2006). This means it would be very complex task to get the data into useable format. Still it would not fit our needs as we need all data to be in at least quarterly format. **Ansar** shell try again tomorrow.
 
 ## 19-10-2022
-We held zoom meeting - every memeber of the group was present.
+We held zoom meeting - every member  of the group was present.
 **Jeffrey** updated the presentation slides and discussed the sequence of slides to present by each team member
 **Ansar** is going to wrangle and tidy up tourism and transport data and lookup for more tourism data in monthly format.
 **Jinze** is wrangling and tiding up cpi, hpi and other datasets. And would look into producing visualization.
@@ -20,7 +31,7 @@ We held zoom meeting - every memeber of the group was present.
 **Ansar** Wrote code to automate browaing of stats nz's infoshare server to download/scrape International visitors arrival database. He Scraped tourism data from 1921 to 2022q2 and Wrangled and tidied the dataset and saved into the csv file.
 
 ## 18-10-2022
-We held zoom meeting - every memeber of the group was present. We discussed the upcoming presentation. Divided the work.
+We held zoom meeting - every member  of the group was present. We discussed the upcoming presentation. Divided the work.
 1. **Jeffrey** presening intro , data model purpose, who can use it. 
 2. **Ansar** presenting datasets, sources of data, scraping, automating the downloads, wrangling and tidying it up.
 3. **Jinze** presenting and explaining the visuals, analysis and conclusions.
@@ -36,7 +47,7 @@ We held zoom meeting - every memeber of the group was present. We discussed the 
 Today **Ansar** formatted project report.
 **Jeffrey** further changed it to improve.
 
-**We held zoom meeting - every memeber of the group was present.**
+**We held zoom meeting - every member  of the group was present.**
 we discussed the format and contents of the project report.
 
 **Jeffrey** explained how the economical indicators (from our datasets) are related to each other and linked with the problem we are solving in the project.
@@ -61,7 +72,7 @@ In unstructured group time, we had our group meeting and discussed the progress 
 
 
 ## 11-10-2022
-We held zoom meeting - every memeber of the group was present
+We held zoom meeting - every member  of the group was present
 We discussed the general progress of the project. Looked into what have we achieved so far regarding acquiring datasets.
 
 ## 09-10-2022
