@@ -1,6 +1,6 @@
 
 # Project diary - Group Asclepius
-__(Ansar Ali, Jeffrey Chi & Jinze Zhou)__
+__(Ansar Ali, Jeffrey Chi & Jinze(Jerry) Zhou)__
 
 ## 24-10-2022
 We held zoom meeting - every member  of the group was present.
