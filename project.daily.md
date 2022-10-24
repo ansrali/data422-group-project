@@ -11,6 +11,11 @@ Our group presented the project work.
 **Ansar, Jeffrey and Jinze** had a debriefing meeting after the presentation lab.
 **Ansar** spent around three hours to find __New Zealand traffic volume__ data without any success. The only closest data was from 1987 to 2020, and it is in pdf format. Also it is in yearly format upto 2003 and after that it is in four year format (e.g. 2000-2003 then 2001-2004 and then 2002-2006). This means it would be very complex task to get the data into useable format. Still it would not fit our needs as we need all data to be in at least quarterly format. **Ansar** shell try again tomorrow.
 
+**Jinze** rearranged the data collection/wranging/visualisation of presentation powerpoint.
+
+## 20-10-2022
+**Jinze** finished data wrangling and visualisaion.
+
 ## 19-10-2022
 We held zoom meeting - every memeber of the group was present.
 **Jeffrey** updated the presentation slides and discussed the sequence of slides to present by each team member
