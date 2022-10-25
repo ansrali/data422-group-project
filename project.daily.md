@@ -2,6 +2,17 @@
 # Project diary - Group Asclepius
 __(Ansar Ali, Jeffrey Chi & Jinze(Jerry) Zhou)__
 
+
+## 25-10-2022
+**Ansar** developed the of data API (yet on localhost). He wrote some code and modified some bits from **Jinze's** visualization code to develope following endpoints for the API:
+
+ - data_summary (returns summary of the merged dataset)
+ - data_variables (returns the list of variables/columns in the merged dataset)
+ - data_selected (returns the merged dataset rows between certain years)
+ - data_all (returns all data from the merged dataset)
+ - plot (returns plot of of all variables of the merged dataset in png format)
+Now, **Ansar** needes cloud server access to put it online. we are hoping that we can use digitalocean from github developer pack (waiting for **Jinze** for the updates on it).
+
 ## 24-10-2022
 We held zoom meeting - every member  of the group was present.
 We discussed:
