@@ -2,6 +2,11 @@
 # Project diary - Group Asclepius
 __(Ansar Ali, Jeffrey Chi & Jinze(Jerry) Zhou)__
 
+## 27-10-2022
+We held zoom meeting - every member of the group was present.
+**Jeffrey** re-structured the report which now resembles more to a research paper. However, no further contents were added. He told that he's going to work on it for the rest of the week. 
+
+**Ansar** completed the api deployment on AWS EC2 for experiment successfully. However, because he don't have enough credit had to stop the server. He'll wait for **Jeffrey** as he said he have AWS account. **Ansar** will complete frieght data download tomorrow.
 
 ## 25-10-2022
 **Ansar** developed the of data API (yet on localhost). He wrote some code and modified some bits from **Jinze's** visualization code to develope following endpoints for the API:
@@ -144,23 +149,22 @@ Team held its fifth meeting online through zoom.
 **Jinze** investigating house price data, models of house price diversity, find 3 popular **House Price Index**, one is conducted by RBNZ, and data can be gather from RBNZ website, result was post on github disscussion.
 
 ## 26-09-2022
-Team had online meeting for the fourth time to decide the direction of the project first time, we decied to choose `New Zealand house prices/rents and collect some correlated economic data`, recorded on email:
-```
-Jeffrey will be looking for the following data sources
+Team had online meeting for the fourth time to decide the direction of the project first time, we decied to choose New Zealand house prices/rents and collect some correlated economic data, recorded on email:
+
+**Jeffrey** will be looking for the following data sources
 - Monetary policy - related data
 - Prices Bank interest rates
 - Quantity : Bank Reserve Ratio
 - International correlation : US Treasury yields
 
-Ali will be looking for the following data sources
+**Ansar** will be looking for the following data sources
 - Fiscal policy - related data
 - CPI
 - Employment rate
 - Fiscal balance data
 
-Zhou will be looking for the following data sources
+**Jinze** will be looking for the following data sources
 - House price/rent data (normalized approach)
-```
 
 ## 21-09-2022
 Team had online meeting for the third time to discuss the direction of the project, we have decied to collect New Zealand economical data and formulate a database for further analysis.
