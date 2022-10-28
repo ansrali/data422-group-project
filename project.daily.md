@@ -5,6 +5,8 @@ __(Ansar Ali, Jeffrey Chi & Jinze(Jerry) Zhou)__
 ## 27-10-2022
 **Ansar** wrote the code to automate and scrape total imports & exports data from InfoShare portal of Statistics New Zealand.
 
+**Jerry** wrote the code to wrangling the total imports & exports data and draw a graph.
+
 ## 26-10-2022
 We held zoom meeting - every member of the group was present.
 **Jeffrey** re-structured the report which now resembles more to a research paper. However, no further contents were added. He told that he's going to work on it for the rest of the week. 
