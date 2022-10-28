@@ -1,9 +1,55 @@
 
 # Project diary - Group Asclepius
-(Ansar Ali, Jeffrey Chi & Jinze Zhou)
+__(Ansar Ali, Jeffrey Chi & Jinze(Jerry) Zhou)__
+
+## 27-10-2022
+**Ansar** wrote the code to automate and scrape total imports & exports data from InfoShare portal of Statistics New Zealand.
+
+**Jerry** wrote the code to wrangling the total imports & exports data and draw a graph.
+
+## 26-10-2022
+We held zoom meeting - every member of the group was present.
+**Jeffrey** re-structured the report which now resembles more to a research paper. However, no further contents were added. He told that he's going to work on it for the rest of the week. 
+
+**Ansar** completed the api deployment on AWS EC2 for experiment successfully. However, because he don't have enough credit had to stop the server. He'll wait for **Jeffrey** as he said he have AWS account. **Ansar** will complete frieght data download tomorrow.
+
+## 25-10-2022
+**Ansar** developed the of data API (yet on localhost). He wrote some code and modified some bits from **Jinze's** visualization code to develope following endpoints for the API:
+
+ - data_summary (returns summary of the merged dataset)
+ - data_variables (returns the list of variables/columns in the merged dataset)
+ - data_selected (returns the merged dataset rows between certain years)
+ - data_all (returns all data from the merged dataset)
+ - plot (returns plot of of all variables of the merged dataset in png format)
+Now, **Ansar** needes cloud server access to put it online. we are hoping that we can use digitalocean from github developer pack (waiting for **Jinze** for the updates on it).
+
+## 24-10-2022
+We held zoom meeting - every member  of the group was present.
+We discussed:
+ - Project report (contents and format):
+**Jerry** suggested to format it according to the one showed by Dr. Giulio in the lecture (https://openhumanitiesdata.metajnl.com/article/10.5334/johd.39/). **Ansar** sent an email to Lecturers to confirm if this is okay. Secondly, we'll submit final report in markdown and pdf format.
+
+ - Developing and deploying Data API on cloud (considering digitalocean, aws and sturncloud)
+We decided:
+ - **Jeffrey** will continue writing report in docx format but once we finalize it, **Jerry'll** convert it into markdown.
+ - **Ansar** will write the code to host data api. We decided that we'll publish final merged, cleaned and ready to visualize dataframe, only.
+
+## 22-10-2022
+**Ansar** wrote julia code to download yearly traffic valume counts in pdf and xlsx files from nzta.
+Tried two julia libraries PDFIO.jl and Taro.jl to parse/scrape pdf files without any success. Asked team members to help in this regards otherwise we have to drop traffic valume counts dataset. 
+
+## 21-10-2022
+Our group presented the project work.
+**Ansar, Jeffrey and Jinze** had a debriefing meeting after the presentation lab.
+**Ansar** spent around three hours to find __New Zealand traffic volume__ data without any success. The only closest data was from 1987 to 2020, and it is in pdf format. Also it is in yearly format upto 2003 and after that it is in four year format (e.g. 2000-2003 then 2001-2004 and then 2002-2006). This means it would be very complex task to get the data into useable format. Still it would not fit our needs as we need all data to be in at least quarterly format. **Ansar** shell try again tomorrow.
+
+**Jinze** made a short video to demonstrate RSelenium usage in collection and rearranged the data collection/wranging/visualization of presentation powerpoint.
+
+## 20-10-2022
+**Jinze** finished data wrangling and visualisaion.
 
 ## 19-10-2022
-We held zoom meeting - every memeber of the group was present.
+We held zoom meeting - every member  of the group was present.
 **Jeffrey** updated the presentation slides and discussed the sequence of slides to present by each team member
 **Ansar** is going to wrangle and tidy up tourism and transport data and lookup for more tourism data in monthly format.
 **Jinze** is wrangling and tiding up cpi, hpi and other datasets. And would look into producing visualization.
@@ -11,7 +57,7 @@ We held zoom meeting - every memeber of the group was present.
 **Ansar** Wrote code to automate browaing of stats nz's infoshare server to download/scrape International visitors arrival database. He Scraped tourism data from 1921 to 2022q2 and Wrangled and tidied the dataset and saved into the csv file.
 
 ## 18-10-2022
-We held zoom meeting - every memeber of the group was present. We discussed the upcoming presentation. Divided the work.
+We held zoom meeting - every member  of the group was present. We discussed the upcoming presentation. Divided the work.
 1. **Jeffrey** presening intro , data model purpose, who can use it. 
 2. **Ansar** presenting datasets, sources of data, scraping, automating the downloads, wrangling and tidying it up.
 3. **Jinze** presenting and explaining the visuals, analysis and conclusions.
@@ -27,7 +73,7 @@ We held zoom meeting - every memeber of the group was present. We discussed the 
 Today **Ansar** formatted project report.
 **Jeffrey** further changed it to improve.
 
-**We held zoom meeting - every memeber of the group was present.**
+**We held zoom meeting - every member  of the group was present.**
 we discussed the format and contents of the project report.
 
 **Jeffrey** explained how the economical indicators (from our datasets) are related to each other and linked with the problem we are solving in the project.
@@ -52,7 +98,7 @@ In unstructured group time, we had our group meeting and discussed the progress 
 
 
 ## 11-10-2022
-We held zoom meeting - every memeber of the group was present
+We held zoom meeting - every member  of the group was present
 We discussed the general progress of the project. Looked into what have we achieved so far regarding acquiring datasets.
 
 ## 09-10-2022
@@ -108,23 +154,22 @@ Team held its fifth meeting online through zoom.
 **Jinze** investigating house price data, models of house price diversity, find 3 popular **House Price Index**, one is conducted by RBNZ, and data can be gather from RBNZ website, result was post on github disscussion.
 
 ## 26-09-2022
-Team had online meeting for the fourth time to decide the direction of the project first time, we decied to choose `New Zealand house prices/rents and collect some correlated economic data`, recorded on email:
-```
-Jeffrey will be looking for the following data sources
+Team had online meeting for the fourth time to decide the direction of the project first time, we decied to choose New Zealand house prices/rents and collect some correlated economic data, recorded on email:
+
+**Jeffrey** will be looking for the following data sources
 - Monetary policy - related data
 - Prices Bank interest rates
 - Quantity : Bank Reserve Ratio
 - International correlation : US Treasury yields
 
-Ali will be looking for the following data sources
+**Ansar** will be looking for the following data sources
 - Fiscal policy - related data
 - CPI
 - Employment rate
 - Fiscal balance data
 
-Zhou will be looking for the following data sources
+**Jinze** will be looking for the following data sources
 - House price/rent data (normalized approach)
-```
 
 ## 21-09-2022
 Team had online meeting for the third time to discuss the direction of the project, we have decied to collect New Zealand economical data and formulate a database for further analysis.
