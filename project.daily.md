@@ -2,6 +2,11 @@
 # Project diary - Group Asclepius
 __(Ansar Ali, Jeffrey Chi & Jinze(Jerry) Zhou)__
 
+## 29-10-2022
+We held zoom meeting - every member of the group was present.
+We discussed report format and agreed to using the **Jerry's** version Reports.docx. **Ansar** and **Jeffrey** had a debate on the diagram we had in the report. **Ansar** explained that we need a database relations diagram which depicts our data modal not a diagram which just tells that we merged everything into one table. **Ansar** will reproduce the database structure diagram. **Ansar** will also write a brief paragraph about Data API publishing tools and techniques.
+**Jeffrey** is going to reformat and add references to the report to avoid any plagiarism.
+
 ## 28-10-2022
 **Jinze(Jerry)** reorganized the report and structured it as follows:
 - ABSTRACT
