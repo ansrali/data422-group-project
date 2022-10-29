@@ -2,6 +2,14 @@
 # Project diary - Group Asclepius
 __(Ansar Ali, Jeffrey Chi & Jinze(Jerry) Zhou)__
 
+## 28-10-2022
+**Jinze(Jerry)** recommends that the report be reorganized to follow the following structure.
+- Purpose
+- Data source
+- Data Wrangling
+- Result
+**Jerry** asked if it was possible for ali to use the following template to display online data: https://shiny.rstudio.com/gallery/nz-trade-dash.html
+
 ## 27-10-2022
 **Ansar** wrote the code to automate and scrape total imports & exports data from InfoShare portal of Statistics New Zealand.
 
