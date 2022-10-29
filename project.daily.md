@@ -18,7 +18,7 @@ __(Ansar Ali, Jeffrey Chi & Jinze(Jerry) Zhou)__
   - Data Analysis
 - SUMMARY
 
-and **Jinze** completed the report except for the Data analysis and Summary sections. Due to spend almost a whole day in reorganized the report, **Jinze** would not spent time on transfer to RMD format.
+and **Jinze** completed the report except for the Data analysis and Summary sections. Due to spend almost a whole day in reorganized the report, **Jinze** would not spent time to transfer to RMD format.
 
 ## 28-10-2022
 **Jinze(Jerry)** recommends that the report be reorganized to follow the following structure.
