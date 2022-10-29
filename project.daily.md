@@ -17,6 +17,7 @@ __(Ansar Ali, Jeffrey Chi & Jinze(Jerry) Zhou)__
   - Technology
   - Data Analysis
 - SUMMARY
+
 and **Jinze** completed the report except for the Data analysis and Summary sections
 
 ## 28-10-2022
