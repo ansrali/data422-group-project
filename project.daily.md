@@ -25,6 +25,8 @@ We discussed report format and agreed to using the **Jerry's** version Reports.d
 
 and **Jinze** completed the report except for the Data analysis and Summary sections. Due to spend almost a whole day in reorganized the report, **Jinze** would not spent time to transfer to RMD format.
 
+**Ansar** deployed the Data API on Amazon EC2 successfuly and shared the endpoint urls with team members.
+
 ## 28-10-2022
 **Jinze(Jerry)** recommends that the report be reorganized to follow the following structure.
 - Purpose
