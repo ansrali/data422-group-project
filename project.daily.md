@@ -2,6 +2,23 @@
 # Project diary - Group Asclepius
 __(Ansar Ali, Jeffrey Chi & Jinze(Jerry) Zhou)__
 
+## 29-10-2022
+**Mingqiu(Jeffrey)** add more contents to the report:
+Complete merging of Jeffrey's report with contents from Jerry's newly strcutured report. 
+Initiate communication with Ali and Jerry regarding whether we are going to create a mark down version along side of the word verion of the report.
+With Jerry's reply not to proceed with the creation of Mark down version of the report.
+Jeffrey has initiate the meeting to clarify the following issues
+1) Entity relationship Diagram to be refactored
+2) Technique section of the report should be written using screenshots and code comments
+3) Add more references to the report in APA style
+4) Jeffrey has completed the draft report except for the Techniques sections. Jeffrey offered to make more contribution on visulization analysis and creation of mark down version of the report.
+5) Jerry asked Ali to refactor the ERD diagram jeffrey has produced, jeffrey told them since the data source only contain timestamp that can be used as key, drawing more relationship between entities would be difficult.
+6) Jerry suggested to transfer contents from old report jeffrey had worked on "Group Project Report" to the new one he created called "Report".
+
+
+and **Jeffrey**  
+
+
 ## 28-10-2022
 **Jinze(Jerry)** reorganized the report and structured it as follows:
 - ABSTRACT
@@ -26,12 +43,14 @@ and **Jinze** completed the report except for the Data analysis and Summary sect
 - Data source
 - Data Wrangling
 - Result
+**Jeffrey** has proposed to produce a C# version of the API that sits on his virtual machine at work, the proposal was rejected.
+**Jeffrey** and **Jinze(Jerry)** and **Ansar** have agreed on split the costs of hosting the API on AWS.
 
 **Jerry** asked if it was possible for ali to use the following template to display online data: https://shiny.rstudio.com/gallery/nz-trade-dash.html
 
 ## 27-10-2022
 **Ansar** wrote the code to automate and scrape total imports & exports data from InfoShare portal of Statistics New Zealand.
-
+**Jeffrey** create a Project_Report_JC.iphynb to start writing technique comments about how our code works.
 **Jerry** wrote the code to wrangling the total imports & exports data and draw a graph.
 
 ## 26-10-2022
