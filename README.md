@@ -13,18 +13,29 @@
 
 ##Notebook Code
 --Collector_Juia_API.ipynb : Julia Code for scraping web data
+
 --Collector_R_WebDriver.ipynb : R Code for scraping web data 
+
 --Data_Visualisation.ipynb : R Code for generating visualisation based on merged data
+
 --Data_Wrangling.ipynb : R Code for data wrangling
+
 --total_exports_StatsNZinfoShare-1988-2022.ipynb : R script for scraping and automatation of Total export 
+
 --total_imports_StatsNZinfoShare-1988-2022.ipynb : R script for scraping and automatation of Import export 
+
 --tourism_automating_download_visitors_arrivals_StatsNZinfoShare-1921-2022.ipynb : R script for scraping and automatation of visitors data
+
 --transport_vehicles_currently_licenced_StatsNZinfoShare-1988-2022.ipynb : R script for scraping and automatation of transport vehicles currently licenced
+
 --transport-volume-count-yearly-from-NZTA-JULIA.ipynb :  Julia script for scraping and automatation transport-volume
+
 
 ##R data API
 --endpoints.R : There are five endpoints which provide a summary, list of each variables and data in the dataset.
+
 --run-api : Use plumber to invoke the endpoint script
+
 --setup : setting up the R libraries
 
 
