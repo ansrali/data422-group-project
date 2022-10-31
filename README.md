@@ -50,5 +50,5 @@ All data files are in CSV format under the data folder.
 - Group Project Presentation.pptx: Group Project Presentation file in PPT format.
 
 ## Project Diary 
-- project.daily.md: project in Mark Down format
+- project.daily.md: project diary in Markdown format.
 
